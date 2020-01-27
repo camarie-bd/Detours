@@ -31,3 +31,8 @@ include/
 obj.*
 *.ipdb
 *.iobj
+
+bin.X64/
+bin.X86/
+lib.X64/
+lib.X86/
